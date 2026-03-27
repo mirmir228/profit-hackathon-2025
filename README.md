@@ -25,4 +25,3 @@ I was responsible for the visual strategy and interface design:
 ## 🔗 Project Links
 - [Figma Design Board](https://www.figma.com/board/KWPDMKxLON1xGjIwhB7Iny/22-%D0%9F%D1%80%D0%BE%D1%84IT)
 - [Backend Repository](https://github.com/Vadokk/neimark_market)
-
